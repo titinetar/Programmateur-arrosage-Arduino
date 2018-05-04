@@ -6,3 +6,6 @@ Materiel:
 -Boutons poussoir
 -Bloc 4 relais
 -Detecteur de pluie
+-Afficheur 16x2 I2C
+-Tiny RTC I2C
+
